@@ -17,6 +17,9 @@ Power BI (Visualization)
 Power Query (ETL Process)
 
 DAX (Data Modeling & Calculations)
+
+## Dashboard Preview
+
 <img width="1915" height="976" alt="Screenshot of Real-Estate" src="https://github.com/user-attachments/assets/81d9d22c-ccea-4e71-a8db-64f4005a31bf" />
 
 ## How to Use
