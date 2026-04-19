@@ -2,7 +2,7 @@
 
 This project features an interactive Power BI Dashboard analyzing real estate transactions in Saudi Arabia during the first quarter of 2024. The dashboard provides deep insights into transaction distribution by region, property type, and market value.
 
-## Key Insights:
+## Key Insights
 **Regional Analysis:** Visualization of real estate prices across different Saudi regions.
 
 **Property Categorization:** Comparison between Residential, Commercial, and Agricultural sectors.
@@ -11,7 +11,7 @@ This project features an interactive Power BI Dashboard analyzing real estate tr
 
 **Temporal Trends:** Monthly analysis of total sales volume for Q1 2024.
 
-## Tech Stack:
+## Tech Stack
 Power BI (Visualization)
 
 Power Query (ETL Process)
