@@ -24,9 +24,9 @@ DAX (Data Modeling & Calculations)
 
 ## How to Use
 To explore the interactive report:
-1. Download the `العقارات` file from this repository.
-2. Open the file using **Power BI Desktop**.
-3. Use the slicers (Region, Property Type, Month) to filter and interact with the data.
+1- Download the `العقارات` file from this repository.
+2- Open the file using **Power BI Desktop**.
+3- Use the slicers (Region, Property Type, Month) to filter and interact with the data.
 
 ### Dashboard in Action
 Here are examples of how the interactive filters work
